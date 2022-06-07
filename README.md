@@ -1,7 +1,7 @@
 # 1 Youtube
 youtubeの「pythonの基礎」シリーズで解説しているコードを載せています！
 
-<a href="https://www.youtube.com/watch?v=X4uL264x35M&list=PL7BUpEjz_maR-IDAXK2lyhBoF1UFdss1t">　<img src="image/r.JPG">　</a>
+<a href="https://www.youtube.com/watch?v=X4uL264x35M&list=PL7BUpEjz_maR-IDAXK2lyhBoF1UFdss1t">　<img src="image/python.JPG">　</a>
 
 <br>
 
